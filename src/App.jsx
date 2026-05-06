@@ -169,7 +169,7 @@ export default function PortalNoticias() {
 
             <div className="bg-zinc-900 text-white rounded-3xl shadow-xl overflow-hidden">
               <img
-                src="/mnt/data/Colectivo.jpeg"
+                src="/Colectivo.jpeg"
                 alt="Colectivo urbano"
                 className="w-full h-56 object-cover"
               />
